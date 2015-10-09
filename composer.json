@@ -16,7 +16,6 @@
         }
     ],
     "require": {
-        "composer/installers": "^1.0.21",
         "drupal/commerce": "8.2.*@dev",
         "drupal/address": "8.1.*@dev",
         "drupal/inline_entity_form": "8.1.0-alpha1",
